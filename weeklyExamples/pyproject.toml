@@ -10,3 +10,6 @@ dependencies = [
     "lab>=8.8",
     "notebook>=7.5.3",
 ]
+
+[tool.uv]
+link-mode = "copy"
