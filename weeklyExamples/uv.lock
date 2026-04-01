@@ -1619,6 +1619,7 @@ dependencies = [
     { name = "ipykernel" },
     { name = "jupyter" },
     { name = "lab" },
+    { name = "matplotlib" },
     { name = "notebook" },
     { name = "pandas" },
 ]
@@ -1628,6 +1629,7 @@ requires-dist = [
     { name = "ipykernel", specifier = ">=7.1.0" },
     { name = "jupyter", specifier = ">=1.1.1" },
     { name = "lab", specifier = ">=8.8" },
+    { name = "matplotlib", specifier = ">=3.10.8" },
     { name = "notebook", specifier = ">=7.5.3" },
     { name = "pandas", specifier = ">=3.0.1" },
 ]
