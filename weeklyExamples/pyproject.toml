@@ -9,8 +9,11 @@ dependencies = [
     "jupyter>=1.1.1",
     "lab>=8.8",
     "matplotlib>=3.10.8",
+    "mysql-connector-python>=9.6.0",
     "notebook>=7.5.3",
     "pandas>=3.0.1",
+    "pymysql>=1.1.2",
+    "sqlalchemy>=2.0.49",
 ]
 
 [tool.uv]
